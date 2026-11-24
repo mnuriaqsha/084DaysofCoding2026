@@ -16,6 +16,6 @@ public class Day84 {
             }
         }
 
-        System.out.println("Angak Maksimal: " + max);
+        System.out.println("Angka Maksimal: " + max);
     }
 }
